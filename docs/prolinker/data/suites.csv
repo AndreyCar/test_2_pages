@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Aug 29 14:20:32 UTC 2022","Mon Aug 29 14:20:35 UTC 2022","3021","","Login modal window","","Login modal window","should check if login modal window is displayed","should check if login modal window is displayed",""
