@@ -1,2 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Aug 29 14:20:32 UTC 2022","Mon Aug 29 14:20:35 UTC 2022","3021","","Login modal window","","Login modal window","should check if login modal window is displayed","should check if login modal window is displayed",""
+"passed","Tue Aug 30 06:39:39 UTC 2022","Tue Aug 30 06:39:41 UTC 2022","2326","","Login from home page","","Login from home page","should login from home page","should login from home page",""
+"passed","Tue Aug 30 06:39:35 UTC 2022","Tue Aug 30 06:39:38 UTC 2022","2330","","Login modal window","","Login modal window","should check if login modal window is displayed","should check if login modal window is displayed",""

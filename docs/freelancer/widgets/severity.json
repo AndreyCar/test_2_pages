@@ -1,1 +1,1 @@
-[{"uid":"404d162b8ce22407","name":"should check if login modal window is displayed","time":{"start":1661782823040,"stop":1661782826026,"duration":2986},"status":"passed","severity":"normal"}]
+[{"uid":"4f5e3cad4693b2b0","name":"should login from home page","time":{"start":1661841563030,"stop":1661841564954,"duration":1924},"status":"passed","severity":"normal"},{"uid":"fa0090dabf9eb47f","name":"should check if login modal window is displayed","time":{"start":1661841557762,"stop":1661841561796,"duration":4034},"status":"passed","severity":"normal"}]
